@@ -129,7 +129,7 @@ class HardwarePatchsetDetection:
             modern_wireless.ModernWireless,
 
             #legacy_audio.LegacyAudio,
-            modern_audio.ModernAudio,
+            #modern_audio.ModernAudio,
 
             #display_backlight.DisplayBacklight,
             #gmux.GraphicsMultiplexer,
